@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+}
+
+.box{
+    flex: 1;
+    border: 1px black;
+    width: 8px;
+    height: 30px;
+}
+
+.box1  {
+    background-color: red;
+}
+
+.box2  {
+    background-color: green;
+}
+
+.box3  {
+    background-color: blue;
+}
+
+.box4  {
+    background-color: yellow;
+}
+
+.box5  {
+    background-color: pink;
+}
+.box{
+    z-index: 1; 
+}
